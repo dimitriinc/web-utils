@@ -1,2 +1,2 @@
 # web-utils
-A set of Python scripts to perform a range of operations on the web.
+A set of Python scripts to automate some tasks on the web.
